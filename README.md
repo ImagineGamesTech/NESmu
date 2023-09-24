@@ -5,7 +5,7 @@ An NES emulator for Windows and Mac.
 NESmu is an NES emulator for Windows and Mac. It works by embedding EmulatorJS into an application using Electron, meaning you will experience lower lag than compared to EmulatorJS's demo. You can play .nes ROMs and .smc SNES ROMs.
 
 ## Run Online
-To run online, go to <br>
+To run online, go to   
 `https://imaginegamestech.github.io/NESmu/emulate/run/`
 
 ## Mac Installation
